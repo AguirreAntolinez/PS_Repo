@@ -1,6 +1,8 @@
 # Problem Set Template Repository for Big Data and Machine Learning for Applied Economics
 
-This is the template repository for the problem sets.
+This is the repository for the problem set 1: precting income, by gruop 8. 
+
+Integrants gruop: John Esteban Lodoño, William Alexander Aguirre. 
 
 The repo should contain at least four folders:
 
