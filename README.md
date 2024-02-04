@@ -1,4 +1,4 @@
-# Problem Set Template Repository for Big Data and Machine Learning for Applied Economics
+# Problem Set 1: Precting Income.
 
 This is the repository for the problem set 1: precting income, by gruop 8. 
 
